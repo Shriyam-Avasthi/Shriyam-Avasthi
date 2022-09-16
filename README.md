@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shriyam-Avasthi
-- 👀 I’m interested in Programming and Software Development
+- 👀 I’m interested in Game Development, Programming and Software Development
 - 🌱 I’m currently learning Machine Learning with python 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Game Development.
 - 📫 How to reach me Linkedin: linkedin.com/in/shriyam-avasthi-2004
 
 <!---
